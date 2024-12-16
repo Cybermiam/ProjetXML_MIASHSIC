@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grille>
+    <cell ligne="0" colonne="0" couleur="lavender"></cell>
+    <cell ligne="0" colonne="1" couleur="lavender"></cell>
+    <cell ligne="0" colonne="2" couleur="lavender"></cell>
+    <cell ligne="0" colonne="3" couleur="lavender"></cell>
+    <cell ligne="0" colonne="4" couleur="lavender"></cell>
+    <cell ligne="0" colonne="5" couleur="lavender"></cell>
+    <cell ligne="0" colonne="6" couleur="lavender"></cell>
+    <cell ligne="1" colonne="0" couleur="lavender"></cell>
+    <cell ligne="1" colonne="1" couleur="lavender"></cell>
+    <cell ligne="1" colonne="2" couleur="lavender"></cell>
+    <cell ligne="1" colonne="3" couleur="lavender"></cell>
+    <cell ligne="1" colonne="4" couleur="lavender"></cell>
+    <cell ligne="1" colonne="5" couleur="lavender"></cell>
+    <cell ligne="1" colonne="6" couleur="lavender"></cell>
+    <cell ligne="2" colonne="0" couleur="lavender"></cell>
+    <cell ligne="2" colonne="1" couleur="lavender"></cell>
+    <cell ligne="2" colonne="2" couleur="lavender"></cell>
+    <cell ligne="2" colonne="3" couleur="lavender"></cell>
+    <cell ligne="2" colonne="4" couleur="lavender"></cell>
+    <cell ligne="2" colonne="5" couleur="lavender"></cell>
+    <cell ligne="2" colonne="6" couleur="lavender"></cell>
+    <cell ligne="3" colonne="0" couleur="lavender"></cell>
+    <cell ligne="3" colonne="1" couleur="lavender"></cell>
+    <cell ligne="3" colonne="2" couleur="lavender"></cell>
+    <cell ligne="3" colonne="3" couleur="lavender"></cell>
+    <cell ligne="3" colonne="4" couleur="lavender"></cell>
+    <cell ligne="3" colonne="5" couleur="lavender"></cell>
+    <cell ligne="3" colonne="6" couleur="lavender"></cell>
+    <cell ligne="4" colonne="0" couleur="lavender"></cell>
+    <cell ligne="4" colonne="1" couleur="turquoise"></cell>
+    <cell ligne="4" colonne="2" couleur="lavender"></cell>
+    <cell ligne="4" colonne="3" couleur="lavender"></cell>
+    <cell ligne="4" colonne="4" couleur="lavender"></cell>
+    <cell ligne="4" colonne="5" couleur="lavender"></cell>
+    <cell ligne="4" colonne="6" couleur="lavender"></cell>
+    <cell ligne="5" colonne="0" couleur="lavender"></cell>
+    <cell ligne="5" colonne="1" couleur="turquoise"></cell>
+    <cell ligne="5" colonne="2" couleur="lavender"></cell>
+    <cell ligne="5" colonne="3" couleur="lavender"></cell>
+    <cell ligne="5" colonne="4" couleur="hotpink"></cell>
+    <cell ligne="5" colonne="5" couleur="hotpink"></cell>
+    <cell ligne="5" colonne="6" couleur="lavender"></cell>
+</grille>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1500" height="800">
+  <style>
+                .victory {
+                  font: bold 25px sans-serif;
+                  fill: limegreen;
+                }
+                .error {
+                  font: bold 15px sans-serif;
+                  fill: red;
+                }
+
+              </style>
+  <rect xmlns="" width="700" height="600" fill="mediumpurple" stroke="black" stroke-width="2"/>
+  <circle xmlns="" cx="50" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="150" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="250" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="350" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="450" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="550" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="650" cy="50" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="50" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="150" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="250" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="350" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="450" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="550" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="650" cy="150" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="50" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="150" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="250" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="350" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="450" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="550" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="650" cy="250" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="50" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="150" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="250" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="350" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="450" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="550" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="650" cy="350" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="50" cy="450" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="150" cy="450" r="45" stroke="black" stroke-width="2" fill="turquoise"/>
+  <circle xmlns="" cx="250" cy="450" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="350" cy="450" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="450" cy="450" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="550" cy="450" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="650" cy="450" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="50" cy="550" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="150" cy="550" r="45" stroke="black" stroke-width="2" fill="turquoise"/>
+  <circle xmlns="" cx="250" cy="550" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="350" cy="550" r="45" stroke="black" stroke-width="2" fill="lavender"/>
+  <circle xmlns="" cx="450" cy="550" r="45" stroke="black" stroke-width="2" fill="hotpink"/>
+  <circle xmlns="" cx="550" cy="550" r="45" stroke="black" stroke-width="2" fill="hotpink"/>
+  <circle xmlns="" cx="650" cy="550" r="45" stroke="black" stroke-width="2" fill="hotpink"/>
+</svg>
